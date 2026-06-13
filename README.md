@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I'm a BCA student and aspiring full-stack developer, currently learning and building projects using React.js, Node.js, Express.js, JavaScript, Python, and databases.
 
 
 # 💻 Tech Stack:
